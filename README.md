@@ -1,4 +1,4 @@
-# Termo Game
+# Pokedex JavaScript
 
 Project developed for the JavaScript module of the Santander Bootcamp
 
